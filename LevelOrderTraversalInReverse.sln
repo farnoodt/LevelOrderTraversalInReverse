@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderTraversalInReverse", "LevelOrderTraversalInReverse\LevelOrderTraversalInReverse.csproj", "{A98AD56B-515C-4117-A34C-825A6E51C4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98AD56B-515C-4117-A34C-825A6E51C4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98AD56B-515C-4117-A34C-825A6E51C4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98AD56B-515C-4117-A34C-825A6E51C4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98AD56B-515C-4117-A34C-825A6E51C4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD97CF5B-55D3-43DE-9E5B-AB91D1222A07}
+	EndGlobalSection
+EndGlobal
